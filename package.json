@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "express": "3.4.3",
-    "waterline": "0.10.0-rc14",
+    "waterline": "0.10.0-rc15",
     "rc": "~0.3.3",
     "sails-stringfile": "~0.3.0",
     "async": "~0.2.9",
@@ -44,7 +44,7 @@
     "node-uuid": "~1.4.0",
     "ejs-locals": "~1.0.2",
     "glob": "~3.2.9",
-    "i18n": "~0.4.1",
+    "i18n": "~0.5.0",
     "sails-generate": "~0.10.2",
     "sails-build-dictionary": "~0.10.1",
     "grunt-cli": "~0.1.11",
@@ -88,7 +88,8 @@
     "fs-extra": "~0.8.1",
     "socket.io-client": "~0.9.16",
     "mocha": "~1.17.1",
-    "portfinder": "~0.2.1"
+    "portfinder": "~0.2.1",
+    "coffee-script": "^1.7.1"
   },
   "repository": {
     "type": "git",
